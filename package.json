@@ -1,0 +1,17 @@
+{
+	"name": "ExpressExam",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://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@github.com/Mineru98/ExpressExam.git",
+	"author": "MineruTv <mineru664500@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "node src/index"
+	},
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"express": "^4.17.1",
+		"express-session": "^1.17.2",
+		"uuid": "^8.3.2"
+	}
+}
